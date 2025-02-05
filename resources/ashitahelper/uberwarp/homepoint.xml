@@ -105,7 +105,7 @@
     <entry alias="Upper Jeuno2" bitflag="129" param="33" zone="244" posx="32.000000" posy="-44.000000" posz="-0.999950" landx="1106771969" landy="3257925633" landz="3212836864" landh="1" />
     <entry alias="Upper Jeuno3" bitflag="130" param="34" zone="244" posx="-52.000000" posy="16.000000" posz="0.999812" landx="3260022785" landy="1097859073" landz="1065353216" landh="48897" />
     <entry alias="Lower Jeuno" bitflag="131" param="35" zone="245" posx="-98.587997" posy="-183.416000" posz="-0.000042" landx="3267833103" landy="3275188864" landz="0" landh="1" />
-    <entry alias="Lower Jeuno2" bitflag="132" param="36" zone="245" posx="18.000000" posy="54.000000" posz="-0.999988" landx="1100480512" landy="1112801281" landz="3212836864" landh="40705" />
+    <entry alias="Lower Jeuno2" bitflag="132" param="36" zone="245" posx="-3.32370" posy="-12.058000" posz="0.000000" landx="1089161134" landy="1090047810" landz="3238002688" landh="22203" />
     <entry alias="Port Jeuno" bitflag="133" param="37" zone="246" posx="37.076000" posy="8.831000" posz="0.000000" landx="1108364755" landy="1091390407" landz="0" landh="1" />
     <entry alias="Port Jeuno2" bitflag="134" param="38" zone="246" posx="-155.000000" posy="-4.000000" posz="-1.000000" landx="3273326592" landy="3225419777" landz="3212836864" landh="16129" />
     <entry alias="Rabao" bitflag="138" param="42" zone="247" posx="-29.275999" posy="-76.584999" posz="0.000000" landx="3253351744" landy="3264949126" landz="0" landh="48897" />
